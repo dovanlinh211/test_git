@@ -65,7 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'you will recceive a notification soon sdklhasd ds,fjkas dsfafsd git ',
+              'you will recceive a notification soon sdklhasd ds,fjkas dsfafsd git //dsfsajdhf ',
               style: Theme.of(context).textTheme.headline4,
             ),
           ],
